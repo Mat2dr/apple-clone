@@ -1,4 +1,4 @@
-# apple-clone
+# Apple Website clone
 
 This project aims to implement better animations like the Apple website. The implementation is in HTML and JavaScript.
 
